@@ -1,10 +1,5 @@
 <h1 align="center">🛡️ Hello, I'm [Your Name] 🛡️</h1>
 <h3 align="center">Cybersecurity Enthusiast | Rust Developer | Full-Stack Explorer</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="400px">
-</p>
-
 ---
 
 ### 🚀 **About Me**
@@ -39,31 +34,10 @@
 
 ---
 
-### 🕵️ **Security & OSINT Projects**
-🔹 **[🔍 OSINT Recon Tool](https://github.com/YourUsername/OSINT-Tool)** – Extracts public data from usernames, emails & domains  
-🔹 **[📡 Packet Analyzer](https://github.com/YourUsername/Packet-Analyzer)** – Custom network packet sniffer in Rust  
-🔹 **[🛡️ PenTest Framework](https://github.com/YourUsername/PenTest-Framework)** – Automation for penetration testing  
-
----
-
-### 🎮 **Game Development**
-🔹 **[🚀 FPS Multiplayer](https://github.com/YourUsername/FPS-Multiplayer)** – Rust & Bevy-based multiplayer FPS  
-🔹 **[🎲 Roguelike Game](https://github.com/YourUsername/Roguelike-Game)** – ASCII roguelike with procedural generation  
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark" />
-</p>
-
----
-
 ### 📫 **Let's Connect!**
-💬 **Discord:** `YourUsername#1234`  
-📧 **Email:** `your.email@example.com`  
-🔗 **[LinkedIn](https://www.linkedin.com/in/your-profile/)**  
+💬 **Discord:** `Neojiku`  
+📧 **Email:** `lovergne.raphael@gmail.com`  
+🔗 **[LinkedIn](https://www.linkedin.com/in/raphael-lovergne-683714322/)**  
 
 ---
 
