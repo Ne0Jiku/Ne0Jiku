@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Hello, I'm [Your Name] 🛡️</h1>
+<h1 align="center">🛡️ Hello, I'm NeoJiku 🛡️</h1>
 <h3 align="center">Cybersecurity Enthusiast | Rust Developer | Full-Stack Explorer</h3>
 ---
 
