@@ -6,7 +6,6 @@
 🔹 Passionate about **Cybersecurity, OSINT, and Network Analysis**  
 🔹 Building **secure & efficient applications** in **Rust & Python**  
 🔹 Developing **multiplayer FPS games** with **Bevy & Renet**  
-🔹 Experimenting with **packet analysis, penetration testing, and forensic tools**  
 🔹 Currently learning **Malware Analysis & Reverse Engineering**  
 
 ---
@@ -15,7 +14,6 @@
 #### **👨‍💻 Programming & Scripting**
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
 
 #### **🌐 Web & Backend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -25,7 +23,6 @@
 #### **🔐 Cybersecurity & Networking**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF5722?style=for-the-badge&logo=burpsuite&logoColor=white)  
 
 #### **⚙️ DevOps & Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
